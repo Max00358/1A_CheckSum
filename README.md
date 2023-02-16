@@ -1,1 +1,1 @@
-# 1A_Projects
+A checksum is a small-sized value generated from some digital data. The checksum is used to detect errors in transmission or storage of the data. The checksum is sent or stored with its corresponding data. After data together with the checksum is sent or retrieved, a check for errors is performed on the data and confirmed using the checksum value.
